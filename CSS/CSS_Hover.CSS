@@ -1,0 +1,11 @@
+.btn{
+    float:left;
+    background-color:blue;
+    padding:30px;
+    color:white;
+    border-radius:10px ;
+}
+
+.btn:hover{
+    background-color: green;
+}
