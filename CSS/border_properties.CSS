@@ -1,0 +1,23 @@
+h1{
+    border-style:double
+}
+
+h2{
+    border-style:ridge
+}
+
+h3{
+    border-style:dotted
+}
+
+h4{
+    border-style:outset
+}
+
+h5{
+    border-style:initial
+}
+
+h5{
+    border-style:unset
+}
