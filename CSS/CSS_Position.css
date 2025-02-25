@@ -1,0 +1,26 @@
+h3{
+    position:fixed !important;
+    color:red;
+    right:100px;
+    left:100px;  
+    top:100px;
+      
+}
+
+h3{
+    position:absolute;
+    color:red;
+    right:100px;
+    left:100px;  
+    top:100px;
+      
+}
+
+h3{
+    position:relative;
+    color:red;
+    right:-100px;
+    left:100px;  
+    top:100px;
+      
+}
