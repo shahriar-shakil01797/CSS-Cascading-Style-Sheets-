@@ -1,0 +1,30 @@
+.btn{
+    float:left;
+    background-color:blue;
+    padding:30px;
+    color:white;
+    border-radius:10px ;
+}
+
+.btn:hover{
+    background-color: green !important;
+}
+
+.btn{
+    float:left;
+    background-color:yellow !important;
+    padding:30px;
+    color:white;
+    border-radius:10px ;
+}
+
+.btn{
+    float:left;
+    background-color:violet ;
+    padding:30px;
+    color:white;
+    border-radius:10px ;
+}
+
+
+
